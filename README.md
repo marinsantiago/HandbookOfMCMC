@@ -6,5 +6,5 @@ Table of contents:
 | S.No. | Chapter Name | Authors(s)|
 | ----- | ------------ | --------- |
 | 1. | Introduction to MCMC | Charles Geyer |
-| 2. MCMC using Hamiltonian Dynamics | Radford Neal |
-| 3. Optimising and Adapting Metropolis Algorithm Proposal Distributions | Jeffrey Rosenthal |
+| 2. | MCMC using Hamiltonian Dynamics | Radford Neal |
+| 3. | Optimising and Adapting Metropolis Algorithm Proposal Distributions | Jeffrey Rosenthal |
