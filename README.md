@@ -18,8 +18,7 @@ Table of contents:
 | 11. | Partially collapsed Gibbs sampling & path-adaptive Metropolis Hastings in high-energy astrophysics | David A. van Dyk, Taeyoung Park, Hector McKimm |
 | 12. | Posterior exploration for computationally intensive forward models | Mikkel B. Lykkegaard, Colin Fox, Dave Higdon, C. Shane Reese, J. David Moulton |
 | 13. | MCMC for State Space Models | Paul Fearnhead Chris Sherlock |
-| 14. | MCMC methods for multi-modal distributions |
- Krzysztof Łatuszyński, Matthew T. Moores, Timothée Stumpf-Fétizon |
+| 14. | MCMC methods for multi-modal distributions | Krzysztof Łatuszyński, Matthew T. Moores, Timothée Stumpf-Fétizon |
 | 15. | Algorithms for Models with Intractable Normalizing Functions | Murali Haran, Bokgyeong Kang, Jaewoo Park |
 | 16. | Sacred and profane: from the involutive theory of MCMC to helpful Hamiltonian hacks | Nathan E. Glatt-Holtz, Andrew J. Holbrook, Justin A. Krometis, Cecilia F. Mondaini, Ami Sheth |
 | 17. | Unbiased Markov Chain Monte Carlo: what, why, and how | Yves F. Atchadé, Pierre E. Jacob |
