@@ -7,7 +7,7 @@ Editors: [Radu V. Caiu](https://raducraiu.com/), [Dootika Vats](https://dvats.gi
 Table of contents for the Second Edition:
 
 | S.No. | Chapter Name | Authors(s)| Code |
-| ----- | ------------ | --------- |
+| ----- | ------------ | --------- | ---- |
 | 1. | Introduction to MCMC | Charles J. Geyer |  |
 | 2. | MCMC using Hamiltonian Dynamics | Radford Neal |   |
 | 3. | [Optimising and Adapting Metropolis Algorithm Proposal Distributions](https://probability.ca/jeff/ftpdir/handbookart.pdf) | Jeffrey Rosenthal |  |
