@@ -25,7 +25,7 @@ Table of contents for the Second Edition:
 | 15. | Algorithms for Models with Intractable Normalizing Functions | Murali Haran, Bokgyeong Kang, Jaewoo Park |  |
 | 16. | [Sacred and profane: from the involutive theory of MCMC to helpful Hamiltonian hacks](https://arxiv.org/abs/2410.17398) | Nathan E. Glatt-Holtz, Andrew J. Holbrook, Justin A. Krometis, Cecilia F. Mondaini, Ami Sheth | [Code](https://github.com/andrewjholbrook/mcmc_handbook) |
 | 17. | [Unbiased Markov Chain Monte Carlo: what, why, and how](https://arxiv.org/abs/2406.06851) | Yves F. Atchadé, Pierre E. Jacob | [Code](https://github.com/pierrejacob/umcmchandbook) |
-| 18. | [Control Variates for MCMC](https://arxiv.org/abs/2402.07349) | Leah South, Matthew Sutton |  |
+| 18. | [Control Variates for MCMC](https://arxiv.org/abs/2402.07349) | Leah South, Matthew Sutton | [Code](https://github.com/LeahPrice/CVBookChapter/) |
 | 19. | [Convergence Bounds for Monte Carlo Markov Chains](https://arxiv.org/abs/2409.14656v1) | Qian Qin |  |
 | 20. | [Perturbations of Markov Chains](https://arxiv.org/abs/2404.10251) | Daniel Rudolf, Aaron Smith, Matias Quiroz |  |
 | 21. | [Running Markov Chain Monte Carlo on Modern Hardware and Software](https://arxiv.org/abs/2411.04260) | Pavel Sountsov, Colin Carroll, Matthew D. Hoffman |  |
