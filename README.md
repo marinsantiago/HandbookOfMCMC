@@ -1,5 +1,7 @@
 # Handbook of Markov Chain Monte Carlo
 
+This is the GitHub repo for the revised and expanded second edition of the [Handbook of Markov Chain Monte Carlo](https://www.taylorfrancis.com/books/mono/10.1201/9781003453420/handbook-markov-chain-monte-carlo-radu-craiu-dootika-vats-galin-jones-steve-brooks-andrew-gelman-xiao-li-meng). The second edition reflects the dramatic evolution of MCMC methods since the publication of the first edition. With the addition of two new editors, Radu V. Craiu and Dootika Vats, this comprehensive reference now offers deeper insights into the theoretical foundations and cutting-edge developments that are reshaping the field. Chapter details and available codes are available below.
+
 ## Second Edition
 
 Editors: [Radu V. Caiu](https://raducraiu.com/), [Dootika Vats](https://dvats.github.io/), [Galin L. Jones](https://galinj.github.io/), [Steve Brooks](https://select-statistics.co.uk/our-consultants/steve-brooks/), [Andrew Gelman](https://sites.stat.columbia.edu/gelman/), [Xiao-li Meng](http://statistics.fas.harvard.edu/people/xiao-li-meng).
